@@ -1,0 +1,11 @@
+{
+    "tv_lambda": 0.7,
+    "tv_ec": 300000,
+    "tv_slope": 1.5,
+    "digital_lambda": 0.7,
+    "digital_ec": 300000,
+    "digital_slope": 1.5,
+    "outdoor_lambda": 0.7,
+    "outdoor_ec": 20000,
+    "outdoor_slope": 0.5
+}
